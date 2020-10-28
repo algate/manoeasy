@@ -1,0 +1,15 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "manoeasy-docs",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "docs": "vuepress dev docs --cache .cache --no-cache"
+  },
+  "author": "丁不易",
+  "license": "MIT",
+  "devDependencies": {
+    "vue-toasted": "^1.1.28",
+    "vuepress": "^1.7.1"
+  }
+}

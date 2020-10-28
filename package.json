@@ -1,0 +1,14 @@
+{
+  "name": "manoeasy",
+  "version": "1.0.0",
+  "description": "vuepress-rexo",
+  "private": true,
+  "workspaces": [
+    "manoeasy/docs"
+  ],
+  "scripts": {
+    "dev:docs": "yarn workspace docs dev"
+  },
+  "author": "丁不易",
+  "license": "MIT"
+}
