@@ -9,11 +9,135 @@ import GlobalLayout from "E:\\GitCoding\\webmark\\node_modules\\@vuepress\\core\
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-2c5c52c6",
-    path: "/guide/assets.html",
+    name: "v-4a472a42",
+    path: "/components/official/plugin-back-to-top.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-2c5c52c6").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-4a472a42").then(next)
+    },
+  },
+  {
+    name: "v-2ddcb054",
+    path: "/components/official/plugin-active-header-links.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-2ddcb054").then(next)
+    },
+  },
+  {
+    name: "v-42228fea",
+    path: "/components/official/plugin-blog.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-42228fea").then(next)
+    },
+  },
+  {
+    name: "v-8a91772c",
+    path: "/components/official/plugin-google-analytics.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-8a91772c").then(next)
+    },
+  },
+  {
+    name: "v-83366fac",
+    path: "/components/official/plugin-last-updated.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-83366fac").then(next)
+    },
+  },
+  {
+    name: "v-0fb1d384",
+    path: "/components/official/plugin-medium-zoom.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-0fb1d384").then(next)
+    },
+  },
+  {
+    name: "v-2d93742c",
+    path: "/components/official/plugin-search.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-2d93742c").then(next)
+    },
+  },
+  {
+    name: "v-25ff28de",
+    path: "/components/official/plugin-nprogress.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-25ff28de").then(next)
+    },
+  },
+  {
+    name: "v-215ba117",
+    path: "/components/theme-default-plugin.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-215ba117").then(next)
+    },
+  },
+  {
+    name: "v-3b6eb70b",
+    path: "/components/vuepress-plugin-comment.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-3b6eb70b").then(next)
+    },
+  },
+  {
+    name: "v-59b63117",
+    path: "/components/vuepress-plugin-element-ui.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-59b63117").then(next)
+    },
+  },
+  {
+    name: "v-3b2075ae",
+    path: "/components/vuepress-plugin-flowchart.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-3b2075ae").then(next)
+    },
+  },
+  {
+    name: "v-2086dad7",
+    path: "/components/vuepress-plugin-social-share.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-2086dad7").then(next)
+    },
+  },
+  {
+    name: "v-59b03802",
+    path: "/components/vuepress-plugin-yuque.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-59b03802").then(next)
+    },
+  },
+  {
+    name: "v-dd7d5dd8",
+    path: "/github/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-dd7d5dd8").then(next)
+    },
+  },
+  {
+    path: "/github/index.html",
+    redirect: "/github/"
+  },
+  {
+    name: "v-494cd1d8",
+    path: "/components/official/plugin-register-components.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-494cd1d8").then(next)
     },
   },
   {
@@ -33,19 +157,19 @@ export const routes = [
     },
   },
   {
+    name: "v-2c5c52c6",
+    path: "/guide/assets.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-2c5c52c6").then(next)
+    },
+  },
+  {
     name: "v-3b6d8e46",
     path: "/guide/directory-structure.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-3b6d8e46").then(next)
-    },
-  },
-  {
-    name: "v-1d416e7d",
-    path: "/guide/frontmatter.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-1d416e7d").then(next)
     },
   },
   {
@@ -73,16 +197,12 @@ export const routes = [
     },
   },
   {
-    name: "v-17a1c114",
-    path: "/guide/",
+    name: "v-0973b2a0",
+    path: "/components/official/plugin-pwa.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-17a1c114").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-0973b2a0").then(next)
     },
-  },
-  {
-    path: "/guide/index.html",
-    redirect: "/guide/"
   },
   {
     name: "v-31f8ad7d",
@@ -101,11 +221,11 @@ export const routes = [
     },
   },
   {
-    name: "v-438ba29d",
-    path: "/guide/using-vue.html",
+    name: "v-1d416e7d",
+    path: "/guide/frontmatter.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-438ba29d").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-1d416e7d").then(next)
     },
   },
   {
@@ -121,12 +241,56 @@ export const routes = [
     redirect: "/"
   },
   {
+    name: "v-07af6cea",
+    path: "/issue/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-07af6cea").then(next)
+    },
+  },
+  {
+    path: "/issue/index.html",
+    redirect: "/issue/"
+  },
+  {
     name: "v-60bc0245",
     path: "/guide/markdown.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-60bc0245").then(next)
     },
+  },
+  {
+    name: "v-17a1c114",
+    path: "/guide/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-17a1c114").then(next)
+    },
+  },
+  {
+    path: "/guide/index.html",
+    redirect: "/guide/"
+  },
+  {
+    name: "v-438ba29d",
+    path: "/guide/using-vue.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-438ba29d").then(next)
+    },
+  },
+  {
+    name: "v-0dd476b4",
+    path: "/components/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-0dd476b4").then(next)
+    },
+  },
+  {
+    path: "/components/index.html",
+    redirect: "/components/"
   },
   {
     path: '*',

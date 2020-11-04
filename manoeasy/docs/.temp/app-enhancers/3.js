@@ -1,1 +1,1 @@
-export { default } from "E:\\GitCoding\\webmark\\node_modules\\vuepress-plugin-smooth-scroll\\lib\\enhanceApp.js"
+export { default } from "E:\\GitCoding\\webmark\\manoeasy\\@vuepress\\plugin-blog\\lib\\client\\classification.js"

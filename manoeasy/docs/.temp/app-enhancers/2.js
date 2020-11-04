@@ -1,2 +1,1 @@
-import "E:\\GitCoding\\webmark\\node_modules\\@vuepress\\plugin-nprogress\\enhanceAppFile.js"
-export default {}
+export { default } from "E:\\GitCoding\\webmark\\node_modules\\vuepress-plugin-smooth-scroll\\lib\\enhanceApp.js"
