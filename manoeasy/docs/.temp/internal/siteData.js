@@ -78,7 +78,8 @@ export const siteData = {
           "title": "使用",
           "slug": "使用"
         }
-      ]
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
     },
     {
       "title": "active-header-links",
@@ -121,7 +122,8 @@ export const siteData = {
           "title": "headerAnchorSelector",
           "slug": "headeranchorselector"
         }
-      ]
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
     },
     {
       "title": "blog",
@@ -149,40 +151,8 @@ export const siteData = {
           "title": "使用",
           "slug": "使用"
         }
-      ]
-    },
-    {
-      "title": "google-analytics",
-      "frontmatter": {
-        "title": "google-analytics",
-        "metaTitle": "Google Analytics 插件 | VuePress"
-      },
-      "regularPath": "/components/official/plugin-google-analytics.html",
-      "relativePath": "components/official/plugin-google-analytics.md",
-      "key": "v-8a91772c",
-      "path": "/components/official/plugin-google-analytics.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "安装",
-          "slug": "安装"
-        },
-        {
-          "level": 2,
-          "title": "使用",
-          "slug": "使用"
-        },
-        {
-          "level": 2,
-          "title": "选项",
-          "slug": "选项"
-        },
-        {
-          "level": 3,
-          "title": "ga",
-          "slug": "ga"
-        }
-      ]
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
     },
     {
       "title": "last-updated",
@@ -215,7 +185,71 @@ export const siteData = {
           "title": "dateOptions",
           "slug": "dateoptions"
         }
-      ]
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
+      "title": "google-analytics",
+      "frontmatter": {
+        "title": "google-analytics",
+        "metaTitle": "Google Analytics 插件 | VuePress"
+      },
+      "regularPath": "/components/official/plugin-google-analytics.html",
+      "relativePath": "components/official/plugin-google-analytics.md",
+      "key": "v-8a91772c",
+      "path": "/components/official/plugin-google-analytics.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "安装",
+          "slug": "安装"
+        },
+        {
+          "level": 2,
+          "title": "使用",
+          "slug": "使用"
+        },
+        {
+          "level": 2,
+          "title": "选项",
+          "slug": "选项"
+        },
+        {
+          "level": 3,
+          "title": "ga",
+          "slug": "ga"
+        }
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
+      "title": "nprogress",
+      "frontmatter": {
+        "title": "nprogress",
+        "metaTitle": "Nprogress 插件 | VuePress"
+      },
+      "regularPath": "/components/official/plugin-nprogress.html",
+      "relativePath": "components/official/plugin-nprogress.md",
+      "key": "v-25ff28de",
+      "path": "/components/official/plugin-nprogress.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "安装",
+          "slug": "安装"
+        },
+        {
+          "level": 2,
+          "title": "使用",
+          "slug": "使用"
+        },
+        {
+          "level": 2,
+          "title": "自定义颜色",
+          "slug": "自定义颜色"
+        }
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
     },
     {
       "title": "medium-zoom",
@@ -253,185 +287,8 @@ export const siteData = {
           "title": "options",
           "slug": "options"
         }
-      ]
-    },
-    {
-      "title": "search",
-      "frontmatter": {
-        "title": "search",
-        "metaTitle": "Search 插件 | VuePress"
-      },
-      "regularPath": "/components/official/plugin-search.html",
-      "relativePath": "components/official/plugin-search.md",
-      "key": "v-2d93742c",
-      "path": "/components/official/plugin-search.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "安装",
-          "slug": "安装"
-        },
-        {
-          "level": 2,
-          "title": "使用",
-          "slug": "使用"
-        },
-        {
-          "level": 2,
-          "title": "选项",
-          "slug": "选项"
-        },
-        {
-          "level": 3,
-          "title": "searchMaxSuggestions",
-          "slug": "searchmaxsuggestions"
-        },
-        {
-          "level": 2,
-          "title": "技巧",
-          "slug": "技巧"
-        },
-        {
-          "level": 3,
-          "title": "调整默认颜色",
-          "slug": "调整默认颜色"
-        }
-      ]
-    },
-    {
-      "title": "nprogress",
-      "frontmatter": {
-        "title": "nprogress",
-        "metaTitle": "Nprogress 插件 | VuePress"
-      },
-      "regularPath": "/components/official/plugin-nprogress.html",
-      "relativePath": "components/official/plugin-nprogress.md",
-      "key": "v-25ff28de",
-      "path": "/components/official/plugin-nprogress.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "安装",
-          "slug": "安装"
-        },
-        {
-          "level": 2,
-          "title": "使用",
-          "slug": "使用"
-        },
-        {
-          "level": 2,
-          "title": "自定义颜色",
-          "slug": "自定义颜色"
-        }
-      ]
-    },
-    {
-      "title": "直接使用的插件",
-      "frontmatter": {},
-      "regularPath": "/components/theme-default-plugin.html",
-      "relativePath": "components/theme-default-plugin.md",
-      "key": "v-215ba117",
-      "path": "/components/theme-default-plugin.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "VuePress 自带的插件",
-          "slug": "vuepress-自带的插件"
-        },
-        {
-          "level": 2,
-          "title": "默认主题自带的插件",
-          "slug": "默认主题自带的插件"
-        },
-        {
-          "level": 2,
-          "title": "安装和卸载",
-          "slug": "安装和卸载"
-        }
-      ]
-    },
-    {
-      "title": "vuepress-plugin-comment",
-      "frontmatter": {},
-      "regularPath": "/components/vuepress-plugin-comment.html",
-      "relativePath": "components/vuepress-plugin-comment.md",
-      "key": "v-3b6eb70b",
-      "path": "/components/vuepress-plugin-comment.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "vuepress-plugin-comment",
-          "slug": "vuepress-plugin-comment"
-        }
-      ]
-    },
-    {
-      "title": "vuepress-plugin-element-ui",
-      "frontmatter": {},
-      "regularPath": "/components/vuepress-plugin-element-ui.html",
-      "relativePath": "components/vuepress-plugin-element-ui.md",
-      "key": "v-59b63117",
-      "path": "/components/vuepress-plugin-element-ui.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "vuepress-plugin-element-ui",
-          "slug": "vuepress-plugin-element-ui"
-        }
-      ]
-    },
-    {
-      "title": "vuepress-plugin-flowchart",
-      "frontmatter": {},
-      "regularPath": "/components/vuepress-plugin-flowchart.html",
-      "relativePath": "components/vuepress-plugin-flowchart.md",
-      "key": "v-3b2075ae",
-      "path": "/components/vuepress-plugin-flowchart.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "vuepress-plugin-flowchart",
-          "slug": "vuepress-plugin-flowchart"
-        }
-      ]
-    },
-    {
-      "title": "vuepress-plugin-social-share",
-      "frontmatter": {},
-      "regularPath": "/components/vuepress-plugin-social-share.html",
-      "relativePath": "components/vuepress-plugin-social-share.md",
-      "key": "v-2086dad7",
-      "path": "/components/vuepress-plugin-social-share.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "vuepress-plugin-social-share",
-          "slug": "vuepress-plugin-social-share"
-        }
-      ]
-    },
-    {
-      "title": "vuepress-plugin-yuque",
-      "frontmatter": {},
-      "regularPath": "/components/vuepress-plugin-yuque.html",
-      "relativePath": "components/vuepress-plugin-yuque.md",
-      "key": "v-59b03802",
-      "path": "/components/vuepress-plugin-yuque.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "vuepress-plugin-yuque",
-          "slug": "vuepress-plugin-yuque"
-        }
-      ]
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/github/",
-      "relativePath": "github/readme.md",
-      "key": "v-dd7d5dd8",
-      "path": "/github/"
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
     },
     {
       "title": "register-components",
@@ -474,7 +331,122 @@ export const siteData = {
           "title": "getComponentName",
           "slug": "getcomponentname"
         }
-      ]
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
+      "title": "vuepress-plugin-comment",
+      "frontmatter": {},
+      "regularPath": "/components/vuepress-plugin-comment.html",
+      "relativePath": "components/vuepress-plugin-comment.md",
+      "key": "v-3b6eb70b",
+      "path": "/components/vuepress-plugin-comment.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "vuepress-plugin-comment",
+          "slug": "vuepress-plugin-comment"
+        }
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
+      "title": "vuepress-plugin-element-ui",
+      "frontmatter": {},
+      "regularPath": "/components/vuepress-plugin-element-ui.html",
+      "relativePath": "components/vuepress-plugin-element-ui.md",
+      "key": "v-59b63117",
+      "path": "/components/vuepress-plugin-element-ui.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "vuepress-plugin-element-ui",
+          "slug": "vuepress-plugin-element-ui"
+        }
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
+      "title": "直接使用的插件",
+      "frontmatter": {},
+      "regularPath": "/components/theme-default-plugin.html",
+      "relativePath": "components/theme-default-plugin.md",
+      "key": "v-215ba117",
+      "path": "/components/theme-default-plugin.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "VuePress 自带的插件",
+          "slug": "vuepress-自带的插件"
+        },
+        {
+          "level": 2,
+          "title": "默认主题自带的插件",
+          "slug": "默认主题自带的插件"
+        },
+        {
+          "level": 2,
+          "title": "安装和卸载",
+          "slug": "安装和卸载"
+        }
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
+      "title": "vuepress-plugin-flowchart",
+      "frontmatter": {},
+      "regularPath": "/components/vuepress-plugin-flowchart.html",
+      "relativePath": "components/vuepress-plugin-flowchart.md",
+      "key": "v-3b2075ae",
+      "path": "/components/vuepress-plugin-flowchart.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "vuepress-plugin-flowchart",
+          "slug": "vuepress-plugin-flowchart"
+        }
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
+      "title": "vuepress-plugin-social-share",
+      "frontmatter": {},
+      "regularPath": "/components/vuepress-plugin-social-share.html",
+      "relativePath": "components/vuepress-plugin-social-share.md",
+      "key": "v-2086dad7",
+      "path": "/components/vuepress-plugin-social-share.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "vuepress-plugin-social-share",
+          "slug": "vuepress-plugin-social-share"
+        }
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
+      "title": "vuepress-plugin-yuque",
+      "frontmatter": {},
+      "regularPath": "/components/vuepress-plugin-yuque.html",
+      "relativePath": "components/vuepress-plugin-yuque.md",
+      "key": "v-59b03802",
+      "path": "/components/vuepress-plugin-yuque.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "vuepress-plugin-yuque",
+          "slug": "vuepress-plugin-yuque"
+        }
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/github/",
+      "relativePath": "github/readme.md",
+      "key": "v-dd7d5dd8",
+      "path": "/github/",
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
     },
     {
       "title": "基本配置",
@@ -501,6 +473,50 @@ export const siteData = {
         }
       ],
       "lastUpdated": "10/28/2020, 10:08:53 AM"
+    },
+    {
+      "title": "search",
+      "frontmatter": {
+        "title": "search",
+        "metaTitle": "Search 插件 | VuePress"
+      },
+      "regularPath": "/components/official/plugin-search.html",
+      "relativePath": "components/official/plugin-search.md",
+      "key": "v-2d93742c",
+      "path": "/components/official/plugin-search.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "安装",
+          "slug": "安装"
+        },
+        {
+          "level": 2,
+          "title": "使用",
+          "slug": "使用"
+        },
+        {
+          "level": 2,
+          "title": "选项",
+          "slug": "选项"
+        },
+        {
+          "level": 3,
+          "title": "searchMaxSuggestions",
+          "slug": "searchmaxsuggestions"
+        },
+        {
+          "level": 2,
+          "title": "技巧",
+          "slug": "技巧"
+        },
+        {
+          "level": 3,
+          "title": "调整默认颜色",
+          "slug": "调整默认颜色"
+        }
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
     },
     {
       "title": "部署",
@@ -666,27 +682,6 @@ export const siteData = {
       "lastUpdated": "10/28/2020, 10:08:53 AM"
     },
     {
-      "title": "多语言支持",
-      "frontmatter": {},
-      "regularPath": "/guide/i18n.html",
-      "relativePath": "guide/i18n.md",
-      "key": "v-69012c32",
-      "path": "/guide/i18n.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "站点多语言配置",
-          "slug": "站点多语言配置"
-        },
-        {
-          "level": 2,
-          "title": "默认主题多语言配置",
-          "slug": "默认主题多语言配置"
-        }
-      ],
-      "lastUpdated": "10/28/2020, 10:08:53 AM"
-    },
-    {
       "title": "pwa",
       "frontmatter": {
         "title": "pwa",
@@ -752,66 +747,26 @@ export const siteData = {
           "title": "自定义 SW-Update Popup 的 UI",
           "slug": "自定义-sw-update-popup-的-ui"
         }
-      ]
-    },
-    {
-      "title": "Markdown 插槽",
-      "frontmatter": {},
-      "regularPath": "/guide/markdown-slot.html",
-      "relativePath": "guide/markdown-slot.md",
-      "key": "v-31f8ad7d",
-      "path": "/guide/markdown-slot.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "为什么需要 Markdown 插槽",
-          "slug": "为什么需要-markdown-插槽"
-        },
-        {
-          "level": 2,
-          "title": "具名插槽",
-          "slug": "具名插槽"
-        },
-        {
-          "level": 2,
-          "title": "插槽的默认内容",
-          "slug": "插槽的默认内容"
-        },
-        {
-          "level": 2,
-          "title": "例子",
-          "slug": "例子"
-        }
       ],
-      "lastUpdated": "10/28/2020, 10:08:53 AM"
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
     },
     {
-      "title": "永久链接",
+      "title": "多语言支持",
       "frontmatter": {},
-      "regularPath": "/guide/permalinks.html",
-      "relativePath": "guide/permalinks.md",
-      "key": "v-57b06393",
-      "path": "/guide/permalinks.html",
+      "regularPath": "/guide/i18n.html",
+      "relativePath": "guide/i18n.md",
+      "key": "v-69012c32",
+      "path": "/guide/i18n.html",
       "headers": [
         {
           "level": 2,
-          "title": "背景",
-          "slug": "背景"
+          "title": "站点多语言配置",
+          "slug": "站点多语言配置"
         },
         {
           "level": 2,
-          "title": "永久链接",
-          "slug": "永久链接-2"
-        },
-        {
-          "level": 3,
-          "title": "配置永久链接",
-          "slug": "配置永久链接"
-        },
-        {
-          "level": 3,
-          "title": "模板变量",
-          "slug": "模板变量"
+          "title": "默认主题多语言配置",
+          "slug": "默认主题多语言配置"
         }
       ],
       "lastUpdated": "10/28/2020, 10:08:53 AM"
@@ -908,6 +863,84 @@ export const siteData = {
       "lastUpdated": "10/28/2020, 10:08:53 AM"
     },
     {
+      "title": "永久链接",
+      "frontmatter": {},
+      "regularPath": "/guide/permalinks.html",
+      "relativePath": "guide/permalinks.md",
+      "key": "v-57b06393",
+      "path": "/guide/permalinks.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "背景",
+          "slug": "背景"
+        },
+        {
+          "level": 2,
+          "title": "永久链接",
+          "slug": "永久链接-2"
+        },
+        {
+          "level": 3,
+          "title": "配置永久链接",
+          "slug": "配置永久链接"
+        },
+        {
+          "level": 3,
+          "title": "模板变量",
+          "slug": "模板变量"
+        }
+      ],
+      "lastUpdated": "10/28/2020, 10:08:53 AM"
+    },
+    {
+      "title": "Markdown 插槽",
+      "frontmatter": {},
+      "regularPath": "/guide/markdown-slot.html",
+      "relativePath": "guide/markdown-slot.md",
+      "key": "v-31f8ad7d",
+      "path": "/guide/markdown-slot.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "为什么需要 Markdown 插槽",
+          "slug": "为什么需要-markdown-插槽"
+        },
+        {
+          "level": 2,
+          "title": "具名插槽",
+          "slug": "具名插槽"
+        },
+        {
+          "level": 2,
+          "title": "插槽的默认内容",
+          "slug": "插槽的默认内容"
+        },
+        {
+          "level": 2,
+          "title": "例子",
+          "slug": "例子"
+        }
+      ],
+      "lastUpdated": "10/28/2020, 10:08:53 AM"
+    },
+    {
+      "title": "issue",
+      "frontmatter": {},
+      "regularPath": "/issue/",
+      "relativePath": "issue/readme.md",
+      "key": "v-07af6cea",
+      "path": "/issue/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "vuepress加载element-ui时报错Cannot find module ‘core-js/library/fn/object/assign",
+          "slug": "vuepress加载element-ui时报错cannot-find-module-core-js-library-fn-object-assign"
+        }
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
       "title": "Home",
       "frontmatter": {
         "home": true,
@@ -930,22 +963,84 @@ export const siteData = {
           "slug": "评论"
         }
       ],
-      "lastUpdated": "10/28/2020, 10:08:53 AM"
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
     },
     {
-      "title": "issue",
+      "title": "插件",
       "frontmatter": {},
-      "regularPath": "/issue/",
-      "relativePath": "issue/readme.md",
-      "key": "v-07af6cea",
-      "path": "/issue/",
+      "regularPath": "/components/",
+      "relativePath": "components/readme.md",
+      "key": "v-0dd476b4",
+      "path": "/components/",
       "headers": [
         {
           "level": 2,
-          "title": "vuepress加载element-ui时报错Cannot find module ‘core-js/library/fn/object/assign",
-          "slug": "vuepress加载element-ui时报错cannot-find-module-core-js-library-fn-object-assign"
+          "title": "直接使用不需要安装 use plugin not need install",
+          "slug": "直接使用不需要安装-use-plugin-not-need-install"
+        },
+        {
+          "level": 3,
+          "title": "Plugins that come with VuePress",
+          "slug": "plugins-that-come-with-vuepress"
+        },
+        {
+          "level": 3,
+          "title": "Plugins that come with the default theme",
+          "slug": "plugins-that-come-with-the-default-theme"
+        },
+        {
+          "level": 2,
+          "title": "需要安装才能使用 use plugin need install",
+          "slug": "需要安装才能使用-use-plugin-need-install"
         }
-      ]
+      ],
+      "lastUpdated": "11/4/2020, 4:39:14 PM"
+    },
+    {
+      "title": "介绍",
+      "frontmatter": {},
+      "regularPath": "/guide/",
+      "relativePath": "guide/index.md",
+      "key": "v-17a1c114",
+      "path": "/guide/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "它是如何工作的？",
+          "slug": "它是如何工作的"
+        },
+        {
+          "level": 2,
+          "title": "Features",
+          "slug": "features"
+        },
+        {
+          "level": 2,
+          "title": "为什么不是...?",
+          "slug": "为什么不是"
+        },
+        {
+          "level": 3,
+          "title": "Nuxt",
+          "slug": "nuxt"
+        },
+        {
+          "level": 3,
+          "title": "Docsify / Docute",
+          "slug": "docsify-docute"
+        },
+        {
+          "level": 3,
+          "title": "Hexo",
+          "slug": "hexo"
+        },
+        {
+          "level": 3,
+          "title": "GitBook",
+          "slug": "gitbook"
+        }
+      ],
+      "lastUpdated": "10/28/2020, 10:08:53 AM"
     },
     {
       "title": "Markdown 拓展",
@@ -1029,52 +1124,6 @@ export const siteData = {
           "level": 2,
           "title": "进阶配置",
           "slug": "进阶配置"
-        }
-      ],
-      "lastUpdated": "10/28/2020, 10:08:53 AM"
-    },
-    {
-      "title": "介绍",
-      "frontmatter": {},
-      "regularPath": "/guide/",
-      "relativePath": "guide/index.md",
-      "key": "v-17a1c114",
-      "path": "/guide/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "它是如何工作的？",
-          "slug": "它是如何工作的"
-        },
-        {
-          "level": 2,
-          "title": "Features",
-          "slug": "features"
-        },
-        {
-          "level": 2,
-          "title": "为什么不是...?",
-          "slug": "为什么不是"
-        },
-        {
-          "level": 3,
-          "title": "Nuxt",
-          "slug": "nuxt"
-        },
-        {
-          "level": 3,
-          "title": "Docsify / Docute",
-          "slug": "docsify-docute"
-        },
-        {
-          "level": 3,
-          "title": "Hexo",
-          "slug": "hexo"
-        },
-        {
-          "level": 3,
-          "title": "GitBook",
-          "slug": "gitbook"
         }
       ],
       "lastUpdated": "10/28/2020, 10:08:53 AM"
@@ -1164,36 +1213,6 @@ export const siteData = {
         }
       ],
       "lastUpdated": "10/28/2020, 10:08:53 AM"
-    },
-    {
-      "title": "插件",
-      "frontmatter": {},
-      "regularPath": "/components/",
-      "relativePath": "components/readme.md",
-      "key": "v-0dd476b4",
-      "path": "/components/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "直接使用不需要安装 use plugin not need install",
-          "slug": "直接使用不需要安装-use-plugin-not-need-install"
-        },
-        {
-          "level": 3,
-          "title": "Plugins that come with VuePress",
-          "slug": "plugins-that-come-with-vuepress"
-        },
-        {
-          "level": 3,
-          "title": "Plugins that come with the default theme",
-          "slug": "plugins-that-come-with-the-default-theme"
-        },
-        {
-          "level": 2,
-          "title": "需要安装才能使用 use plugin need install",
-          "slug": "需要安装才能使用-use-plugin-need-install"
-        }
-      ]
     }
   ],
   "themeConfig": {
