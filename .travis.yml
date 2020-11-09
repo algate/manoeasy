@@ -10,10 +10,10 @@ deploy:
   skip-cleanup: true
   local_dir: vuepress # 项目打包后生成的文件的目录
   github-token: 7ea9bb8e5c3e562da0287d81804bd9f0d46d01b7 # 这里这个变量就是刚才配置 token 时填写的那个变量
-  target-branch: main
+  target-branch: gh-pages
   keep-history: true
   on:
-    branch: gh-pages
+    branch: min
 branches:
   only:
     - gh-pages
