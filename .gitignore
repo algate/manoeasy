@@ -11,7 +11,7 @@ yarn-error.log*
 .vscode
 
 # lock
-*.lock
+# *.lock
 
 # temp
 manoeasy/docs/.temp/
