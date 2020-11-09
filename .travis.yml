@@ -13,7 +13,7 @@ deploy:
   target-branch: main
   keep-history: true
   on:
-    branch: gh-pages
+    branch: min
 branches:
   only:
     - gh-pages
