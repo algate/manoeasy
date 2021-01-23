@@ -8,7 +8,7 @@
       type="button"
       :aria-label="dropdownAriaLabel"
       @click="handleDropdown"
-    >
+    > <i :class="item.icon"></i>
       <span class="title">{{ item.text }}</span>
       <span
         class="arrow down"
@@ -20,6 +20,7 @@
       :aria-label="dropdownAriaLabel"
       @click="setOpen(!open)"
     >
+      <i :class="item.icon"></i>
       <span class="title">{{ item.text }}</span>
       <span
         class="arrow"

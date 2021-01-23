@@ -1,4 +1,4 @@
-node_modules/
+node_modules
 
 # Log files
 npm-debug.log*
@@ -14,4 +14,4 @@ yarn-error.log*
 # *.lock
 
 # temp
-manoeasy/docs/.temp/
+manoeasy/docs/.temp
